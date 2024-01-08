@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: org.MiniGameKeyboard.MiniPanel.LoadingPanel
+Class-Path: commons-logging-1.1.1.jar httpclient-4.5.14.jar commons-code
+ c-1.11.jar commons-collections-3.2.1.jar httpcore-4.4.15.jar commons-la
+ ng-2.5.jar fastjson2-2.0.25.jar json-lib-2.4-jdk15.jar ezmorph-1.0.6.ja
+ r commons-beanutils-1.8.0.jar
+
